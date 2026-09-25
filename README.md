@@ -108,3 +108,8 @@ This starter intentionally keeps infrastructure light. The repository is structu
 
 **Diego Ivan Galvez Sanchez**  
 Physician · Dermatologist · Applied AI & Healthcare
+
+## Related portfolio projects
+
+- [Medical LLM Evaluation Bench](https://github.com/hampikamayuq/Medical-LLM-Evaluation-Bench)
+- [Dermatology RAG Evidence Assistant](https://github.com/hampikamayuq/Dermatology-RAG-Evidence-Assistant-)

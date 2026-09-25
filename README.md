@@ -1,5 +1,7 @@
 # QARA Clinical AI & Automation — Portfolio Demo
 
+[![CI](https://github.com/hampikamayuq/Clinical-AI-Automation/actions/workflows/ci.yml/badge.svg)](https://github.com/hampikamayuq/Clinical-AI-Automation/actions/workflows/ci.yml)
+
 A privacy-safe, synthetic portfolio project demonstrating how a clinician can design reliable AI-assisted workflows for healthcare operations.
 
 > **Portfolio/demo only.** This repository does not contain production credentials, patient data, clinic exports, or protected health information (PHI). All examples are synthetic.

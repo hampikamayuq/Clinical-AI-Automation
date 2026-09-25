@@ -1,0 +1,19 @@
+[
+  {
+    "eventType": "appointment.confirmed",
+    "idempotencyKey": "synthetic-appt-001-v1",
+    "patient": {
+      "id": "pat_demo_001",
+      "fullName": "Ana Example"
+    },
+    "appointment": {
+      "externalAppointmentId": "ext_demo_1001",
+      "startsAt": "2026-10-05T14:00:00-03:00"
+    }
+  },
+  {
+    "eventType": "message.received",
+    "idempotencyKey": "synthetic-msg-001-v1",
+    "text": "I would like to confirm my appointment time."
+  }
+]
